@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<px version="1.0" media="workbench:WbPxMedia">
+  <import>
+    <module name="bacnet" />
+    <module name="baja" />
+    <module name="bajaui" />
+    <module name="btsDisp" />
+    <module name="converters" />
+    <module name="gx" />
+    <module name="workbench" />
+  </import>
+  <content>
+    <BtScrollPane viewSize="600,480">
+      <BtCanvasPane viewSize="600,480" background="#FFFFFFFF" backgroundImage="image( source() )" backgroundColor="#FFFFFFFF" name="content" displayDescription="">
+        <BtLabel text="" layout="0,0,72,14" font="  11.0025pt Arial" background="#ffffff" foreground="#000000" halign="left" valign="top" />
+      </BtCanvasPane>
+    </BtScrollPane>
+  </content>
+</px>
